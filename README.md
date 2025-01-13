@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Jthiede1 (Jake) 
-- 👀 I’m interested in helping technical teams with the business side for exciting startup projects 
-- 🌱 I’m currently learning AI/ML 
-- 💞️ I’m looking to collaborate on startups 
 - 📫 How to reach me:  jacobthiede@gmail.com 
 
 <!---
